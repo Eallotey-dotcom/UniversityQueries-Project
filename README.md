@@ -11,4 +11,4 @@ Created an ERD from a university data using MySQL, forward-engineered the databa
 -ERD modeling
 
 # How to use
-Import the '.sql' file into MYSQL to view and run queries
+Import the universityqueries.sql file into MYSQL to view and run queries
